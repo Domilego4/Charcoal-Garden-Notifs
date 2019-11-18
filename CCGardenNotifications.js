@@ -1,7 +1,7 @@
 /*
 Code poorly written by u/Domilego4 (@Domilego4 on Twitter) while he was bored one time in class.
 
-A mod that annoyingly plays the Minecraft "Pling.ogg" sound effect 10 times
+A mod that annoyingly plays the Minecraft "Pling" sound effect 10 times
 whenever that one plant reaches the stage you were waiting for.
 
 How to use:
